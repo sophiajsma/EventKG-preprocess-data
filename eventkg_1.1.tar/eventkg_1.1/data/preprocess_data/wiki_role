@@ -1,0 +1,18 @@
+part of	P361	Item	part: this item is a part of that item (see Help:Basic membership properties for more information)	→ Property talk:P361	has part
+has part	P527	Item	has part: part of this subject. Inverse property of "part of" (P361).	→ Property talk:P527	part of
+owned by	P127	Item	proprietor: owner of the subject	→ Property talk:P127	owner of
+follows	P155	Item	follows: immediately prior item in a series of which the subject is a part [if the subject has replaced the preceding item, e.g. political offices, use "replaces" (P1365)]]	→ Property talk:P155	followed by
+followed by	P156	Item	followed by: immediately following item in a series of which the subject is a part [if the subject has been replaced, e.g. political offices, use "replaced by" (P1366)]	→ Property talk:P156	follows
+start time	P580	Point in time	start time: indicates the time an item begins to exist or a statement starts being valid	→ Property talk:P580	-
+end time	P582	Point in time	end time: indicates the time an item ceases to exist or a statement stops being valid	→ Property talk:P582	-
+point in time	P585	Point in time	point in time: time and date something took place, existed or a statement was true	→ Property talk:P585	-
+valid in period	P1264	Item	time period when a statement is valid	→ Property talk:P1264	-
+occupation	P106	Item	occupation: occupation of a person; see also "field of work" (Property:P101), "position held" (Property:P39)	→ Property talk:P106	-
+field of work	P101	Item	field of work: specialization of a person or organization; see P106 for the occupation	→ Property talk:P101	-
+employer	P108	Item	employer: person or organization for which the subject works or worked	→ Property talk:P108	-
+position held	P39	Item	mandate: subject currently or formerly holds the object position or public office	→ Property talk:P39	officeholder
+member of political party	P102	Item	political party: the political party of which this politician is or has been a member	→ Property talk:P102	-
+official residence	P263	Item	official residence: the residence at which heads of government and other senior figures officially reside	→ Property talk:P263	-
+participant of	P1344	Item	event: event a person or an organization was a participant in, inverse of P710 or P1923	→ Property talk:P1344	participant and participating teams
+affiliation	P1416	Item	affiliation: organization that a person or organization is affiliated with	→ Property talk:P1416	-
+spouse	P26	Item	spouse: the subject has the object as their spouse (husband, wife, partner, etc.). Use "unmarried partner" (P451) for non-married companions	→ Property talk:P26	-

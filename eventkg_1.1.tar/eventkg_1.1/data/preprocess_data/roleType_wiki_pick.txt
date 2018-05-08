@@ -1,0 +1,33 @@
+wdt:1344	participant of	279777
+wdt:P710	participant	68142
+wdt:P527	has part	34982
+wdt:P3602	candidacy in election	21733
+wdt:P793	significant event	14186
+wdt:P991	successful candidate	10979
+wdt:P664	organizer	8714
+wdt:P726	candidate	5462
+wdt:P3279	statistical leader	1902
+wdt:P3764	pole position	1815
+wdt:P1343	described by source	1597
+wdt:P118	league	1548
+wdt:P3489	pregnancy category	1547
+wdt:P3494	points classification	1509
+wdt:P3497	teams classification by time	1470
+wdt:P1001	applies to jurisdiction	1419
+wdt:P3342	significant person	1388
+wdt:P199	business division	127
+wdt:P272	production company	76
+wdt:P2715	elected in	76
+wdt:P155	follows
+wdt:P127	owned by
+wdt:P361	part of
+wdt:P39	position held
+wdt:P108	employer
+wdt:P102	member of political party
+wdt:P101	field of work
+wdt:P156	followed by
+wdt:P106	occupation
+wdt:P1416	affiliation
+wdt:P1264	valid in period
+wdt:P26	spouse
+dbo:nextEvent	nextEvent
